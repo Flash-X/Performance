@@ -2,8 +2,10 @@
 	path = Flow-Boiling-3D
 	url = git@github.com:Lab-Notebooks/Flow-Boiling-3D.git
         branch = main
+	main = origin/main
 
 [submodule "AMReX-Bittree-Performance"]
 	path = AMReX-Bittree-Performance
 	url = git@github.com:Lab-Notebooks/AMReX-Bittree-Performance.git
         branch = main
+	main = origin/main
