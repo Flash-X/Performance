@@ -1,5 +1,5 @@
 [submodule "Flow-Boiling-3D"]
-	path = Flow-Boiling-3D
+	path = Flow-Boiling-Performance
 	url = git@github.com:Lab-Notebooks/Flow-Boiling-3D.git
 
 [submodule "AMReX-Bittree-Performance"]
